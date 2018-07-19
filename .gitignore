@@ -1,2 +1,5 @@
 
 **/TH_MULT_4
+Multiplexer.vhd
+tb_TH_ADD16.vhd
+TH_ADD16.vhd
